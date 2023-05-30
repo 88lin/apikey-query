@@ -3,7 +3,7 @@ import { ref } from 'vue';
 import axios from "axios";
 const result: any = ref([]);
 const keys = ref('');
-const baseUrl = 'https://ai.mdzx.me/';
+const baseUrl = 'https://8.88lin.eu.org/';
 
 function formatDate(today: Date) {
   let year:any = today.getFullYear();
